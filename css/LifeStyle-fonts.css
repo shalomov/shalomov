@@ -1,0 +1,25 @@
+@font-face {
+    font-family: 'notera_personal_use_onlyRg';
+    src: url('../fonts/notera/notera_personaluseonly-webfont.woff') format('woff2'),
+         url('../fonts/notera/notera_personaluseonly-webfont.woff2') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'mrs_saint_delafieldregular';
+    src: url('../fonts/mrs-saint-delafield/mrssaintdelafield-regular-webfont.woff') format('woff2'),
+         url('../fonts/mrs-saint-delafield/mrssaintdelafield-regular-webfont.woff2') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'glyphicons-halflings-regular';
+    src: url('../fonts/glyphicons-halflings-regular.ttf') format('woff2'),
+         url('../fonts/glyphicons-halflings-regular.woff') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+
+}
